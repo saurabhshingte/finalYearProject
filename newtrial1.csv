@@ -1,0 +1,117 @@
+What is an EMI?,You repay the loan in Equated Monthly Installments (EMIs) comprising both principal and interest. Repayment by way of EMI starts from the month following the month in which you take full disbursement.
+How does tenure affect cost of loan?,"The longer the tenure of the loan, the lesser will be your monthly EMI outflow. Shorter tenures mean greater EMI burden, but your loan is repaid faster. If you have a short-term cash flow mismatch, your bank may increase the tenure of the loan, and your EMI burden comes down. But longer tenures mean payment of larger interest towards the loan and make it more expensive."
+What is an amortization schedule?,This is a table that gives details of the periodic principal and interest payments on a loan and the amount outstanding at any point of time. It also shows the gradual decrease of the loan balance until it reaches zero.
+Can an Individual have any number of Basic Savings Bank Deposit Account in one bank?,No. An individual is eligible to have only one Basic Savings Bank Deposit Account in one bank.
+Whether a Basic Savings Bank Deposit Account holder can have any other saving account in that bank?,"Holders of Basic Savings Bank Deposit Account will not be eligible for opening any other savings account in that bank. If a customer has any other existing savings account in that bank, he / she will be required to close it within 30 days from the date of opening a 'Basic Savings Bank Deposit Account'."
+Are all bank branches in the country part of the NEFT funds transfer network?,"For being part of the NEFT funds transfer network, a bank branch has to be NEFT- enabled. The list of bank-wise branches which are participating in NEFT is provided in the website of Reserve Bank of India at http://www.rbi.org.in/scripts/neft.aspx"
+Who can transfer funds using NEFT?,"Individuals, firms or corporates maintaining accounts with a bank branch can transfer funds using NEFT. Even such individuals who do not have a bank account (walk-in customers) can also deposit cash at the NEFT-enabled branches with instructions to transfer funds using NEFT. However, such cash remittances will be restricted to a maximum of ₹ 50,000/- per transaction. Such customers have to furnish full details including complete address, telephone number, etc. NEFT, thus, facilitates originators or remitters to initiate funds transfer transactions even without having a bank account."
+Who can receive funds through the NEFT system?,"Individuals, firms or corporates maintaining accounts with a bank branch can receive funds through the NEFT system. It is, therefore, necessary for the beneficiary to have an account with the NEFT enabled destination bank branch in the country. The NEFT system also facilitates one-way cross-border transfer of funds from India to Nepal. This is known as the Indo-Nepal Remittance Facility Scheme. A remitter can transfer funds from any of the NEFT-enabled branches in India to Nepal, irrespective of whether the beneficiary in Nepal maintains an account with a bank branch in Nepal or not. The beneficiary would receive funds in Nepalese Rupees."
+What is NEFT?,"National Electronic Funds Transfer (NEFT) is a nation-wide payment system facilitating one-to-one funds transfer. Under this Scheme, individuals, firms and corporates can electronically transfer funds from any bank branch to any individual, firm or corporate having an account with any other bank branch in the country participating in the Scheme."
+What is IFSC?,"IFSC or Indian Financial System Code is an alpha-numeric code that uniquely identifies a bank-branch participating in the NEFT system. This is an 11 digit code with the first 4 alpha characters representing the bank, and the last 6 characters representing the branch. The 5th character is 0 (zero). IFSC is used by the NEFT system to identify the originating / destination banks / branches and also to route the messages appropriately to the concerned banks / branches."
+Is there any limit on the amount that could be transferred using NEFT?,"There is no limit – either minimum or maximum – on the amount of funds that could be transferred using NEFT. However, maximum amount per transaction is limited to ₹ 50,000/- for cash-based remittances within India and also for remittances to Nepal under the Indo-Nepal Remittance Facility Scheme."
+Whether the system is centre-specific or has any geographical restriction?,"There is no restriction of centres or of any geographical area within the country. The NEFT system takes advantage of the core banking system in banks. Accordingly, the settlement of funds between originating and receiving banks takes places centrally at Mumbai, whereas the branches participating in NEFT can be located anywhere across the length and breadth of the country."
+What are the operating hours of NEFT?,"From July 10, 2017 settlements of fund transfer requests in NEFT system is done on half-hourly basis. There are twenty three half-hourly settlement batches run from 8 am to 7 pm on all working days of week (Except 2nd and 4th Saturday of the month)."
+How can the IFSC of a bank-branch be found?,"Bank-wise list of IFSCs is available with all the bank-branches participating in NEFT. List of bank-wise branches participating in NEFT and their IFSCs is available on the website of Reserve Bank of India at http://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2009 . All the banks have also been advised to print the IFSC of the branch on cheques issued to their customers. Further, banks have also been advised to ensure that their branch staff provide necessary assistance to customers in filling out the required details, including IFSC details, in the NEFT application form, and also help in ensuring that there is no mismatch between the IFSC code and branch details of beneficiary branch as provided by the customer."
+What are the processing or service charges for NEFT transactions?,"The structure of charges that can be levied on the customer for NEFT is given below:
+a) Inward transactions at destination bank branches (for credit to beneficiary accounts)
+– Free, no charges to be levied on beneficiaries
+b) Outward transactions at originating bank branches – charges applicable for the remitter
+- For transactions up to ₹ 10,000 : not exceeding ₹ 2.50 (+ Applicable GST)
+- For transactions above ₹ 10,000 up to ₹ 1 lakh: not exceeding ₹ 5 (+ Applicable GST)
+- For transactions above ₹ 1 lakh and up to ₹ 2 lakhs: not exceeding ₹ 15 (+ Applicable GST)
+- For transactions above ₹ 2 lakhs: not exceeding ₹ 25 (+ Applicable GST)
+c) Charges applicable for transferring funds from India to Nepal using the NEFT system (under the Indo-Nepal Remittance Facility Scheme) is available on the website of RBI at http://rbi.org.in/scripts/FAQView.aspx?Id=67"
+How does the NEFT system operate?,"Step-1 : An individual / firm / corporate intending to originate transfer of funds through NEFT has to fill an application form providing details of the beneficiary (like name of the beneficiary, name of the bank branch where the beneficiary has an account, IFSC of the beneficiary bank branch, account type and account number) and the amount to be remitted. The application form will be available at NEFT enabled originating bank branch. The remitter authorizes his/her bank branch to debit his account and remit the specified amount to the beneficiary. Customers enjoying net banking facility offered by their bankers can also initiate the funds transfer request online. Some banks offer the NEFT facility even through the ATMs. Walk-in customers will, however, have to give their contact details (complete address and telephone number, etc.) to the branch. This will help the branch to refund the money to the customer in case credit could not be afforded to the beneficiary’s bank account or the transaction is rejected / returned for any reason.
+Step-2 : The originating bank branch prepares a message and sends the message to its pooling centre (also called the NEFT Service Centre).
+Step-3 : The pooling centre forwards the message to the NEFT Clearing Centre (operated by National Clearing Cell, Reserve Bank of India, Mumbai) to be included for the next available batch.
+Step-4 : The Clearing Centre sorts the funds transfer transactions destination bank-wise and prepares accounting entries to receive funds from the originating banks (debit) and give the funds to the destination banks(credit). Thereafter, bank-wise remittance messages are forwarded to the destination banks through their pooling centre (NEFT Service Centre).
+Step-5 : The destination banks receive the inward remittance messages from the Clearing Centre and pass on the credit to the beneficiary customers’ accounts."
+When can the beneficiary expect to get the credit to his bank account?,The beneficiary can expect to get credit for the NEFT transactions within two business hours from the batch in which the transaction was settled.
+Who should be contacted in case of non-credit or delay in credit to the beneficiary account?,"In case of non-credit or delay in credit to the beneficiary account, the NEFT Customer Facilitation Centre (CFC) of the respective bank can be contacted (the remitter can contact his bank’s CFC; the beneficiary may contact the CFC of his bank). Details of NEFT Customer Facilitation Centres of banks are available on the websites of the respective banks. The details are also available on the website of Reserve Bank of India at http://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2070.
+If the issue is not resolved satisfactorily, the NEFT Help Desk (or Customer Facilitation Centre of Reserve Bank of India) at National Clearing Cell, Reserve Bank of India, Mumbai may be contacted through e-mail or by addressing correspondence to the General Manager, Reserve Bank of India, National Clearing Centre, First Floor, Mumbai Regional Office, Fort Mumbai 400001"
+What will happen if credit is not afforded to the account of the beneficiary?,"If it is not possible to afford credit to the account of the beneficiary for whatever reason, destination banks are required to return the transaction (to the originating branch) within two hours of completion of the batch in which the transaction was processed.
+For example, if a customer submits a fund transfer request at 12.05 p.m. to an NEFT-enabled branch, the branch in turn forwards the message through its pooling centre to the NEFT Clearing Centre for processing in the immediately available next batch which (say) is the 12.30 pm batch. If the destination bank is unable to afford the credit to the beneficiary for any reason, it has to return the transaction to the originating bank, not later than in the 2.30 pm batch. On receiving such a returned transaction, the originating bank has to credit the amount back to account of the originating customer."
+Can NEFT be used to transfer funds from / to NRE and NRO accounts?,"Yes. NEFT can be used to transfer funds from /to NRE and NRO accounts in the country. This, however, is subject to the adherence of the provisions of the Foreign Exchange Management Act, 2000 (FEMA) and Wire Transfer Guidelines"
+Can remittances be sent abroad using NEFT?,"No. However, a facility is available to send outward remittances to Nepal under the Indo-Nepal Remittance Facility Scheme."
+What are the other transactions that could be initiated using NEFT?,"Besides personal funds transfer, the NEFT system can also be used for a variety of transaction including payment of credit card dues to the card issuing banks, payment of loan EMI etc. In such cases, the IFSC and account number specified by card issuing bank or laon disbursing bank needs to be provided by the remitting customer."
+Can a transaction be originated to draw (receive) funds from another account?,"No. NEFT is a credit-push system i.e., transactions can be originated by the payer / remitter/sender only to pay/ transfer / remit funds to a beneficiary."
+Would the remitter receive an acknowledgement once the funds are transferred to the account of the beneficiary?,"Yes. In case of successful credit to the beneficiary's account, the bank which had originated the transaction is expected to send a confirmation to the originating customer (through SMS or e-mail) advising of the credit as also mentioning the date and time of credit. For the purpose, remitters need to provide their mobile number / e-mail-id to the branch at the time of originating the transaction."
+Is there a way for the remitter to track a transaction in NEFT?,"Yes, the remitter can track the NEFT transaction through the originating bank branch or its Customer Facilitation Centre (CFC) using the Unique Transaction Reference (UTR) number provided at the time of initiating the funds transfer. It is possible for the originating bank branch to keep track and be aware of the status of the NEFT transaction at all times."
+What are the pre-requisites for originating a NEFT transaction?,"Following are the pre-requisites for putting through a funds transfer transaction using NEFT –
+Originating and destination bank branches should be part of the NEFT network
+Beneficiary details such as beneficiary name, account number and account type, name and IFSC of the beneficiary bank branch should be available with the remitter
+Customers should exercise due care in providing the account number of the beneficiary, as, in the course of processing NEFT transactions, the credit will be given to the customer’s account solely based on account number provided in the NEFT remittance instruction / message."
+What are the benefits of using NEFT?,"NEFT offers many advantages over the other modes of funds transfer:
+The remitter need not send the physical cheque or Demand Draft to the beneficiary.
+The beneficiary need not visit his / her bank for depositing the paper instruments.
+The beneficiary need not be apprehensive of loss / theft of physical instruments or the likelihood of fraudulent encashment thereof.
+Cost effective.
+Credit confirmation of the remittances sent by SMS or email.
+Remitter can initiate the remittances from his home / place of work using the internet banking also.
+Near real time transfer of the funds to the beneficiary account in a secure manner."
+"Is there any compensation for the customers, if the credit is delayed to beneficiary account or if there is any delay is returning the transaction to the originator / sender / remitter?",Yes. If the NEFT transaction is not credited or returned within the stipulated time then the banks are liable to pay penal interest to the affected customers. Banks are required to pay penal interest at the current RBI LAF Repo Rate plus two percent for the period of delay / till the date of refund as the case may be to the affected customers’ account without waiting for a specific claim to be lodged by the customer in this regard.
+Would the remitting customer receive an acknowledgement of money credited to the beneficiary's account?,"The remitting bank receives a message from the Reserve Bank that money has been credited to the receiving bank. Based on this the remitting bank can advise the remitting customer that money has been delivered to the receiving bank. On receipt of NEFT acknowledgement from beneficiary bank , SMS /Email is being sent inform the remitting customer that NEFT Credit has been delivered to the receiving."
+What is RTGS System?,"The acronym 'RTGS' stands for Real Time Gross Settlement, which can be defined as the continuous (real-time) settlement of funds transfers individually on an order by order basis (without netting). 'Real Time' means the processing of instructions at the time they are received rather than at some later time; 'Gross Settlement' means the settlement of funds transfer instructions occurs individually (on an instruction by instruction basis). Considering that the funds settlement takes place in the books of the Reserve Bank of India, the payments are final and irrevocable."
+How RTGS is different from National Electronics Funds Transfer System (NEFT)?,"NEFT is an electronic fund transfer system that operates on a Deferred Net Settlement (DNS) basis which settles transactions in batches. In DNS, the settlement takes place with all transactions received till the particular cut-off time. These transactions are netted (payable and receivables) in NEFT whereas in RTGS the transactions are settled individually. For example, currently, NEFT operates in hourly batches. [There are twelve settlements from 8 am to 7 pm on week days and six settlements from 8 am to 1 pm on Saturdays.] Any transaction initiated after a designated settlement time would have to wait till the next designated settlement time Contrary to this, in the RTGS transactions are processed continuously throughout the RTGS business hours."
+Is there any minimum / maximum amount stipulation for RTGS transactions?,The RTGS system is primarily meant for large value transactions. The minimum amount to be remitted through RTGS is ` 2 lakh. There is no upper ceiling for RTGS transactions.
+What is the time taken for effecting funds transfer from one account to another under RTGS?,Under normal circumstances the beneficiary branches are expected to receive the funds in real time as soon as funds are transferred by the remitting bank. The beneficiary bank has to credit the beneficiary's account within 30 minutes of receiving the funds transfer message.
+Would the remitting customer receive an acknowledgement of money credited to the beneficiary's account?,The remitting bank receives a message from the Reserve Bank that money has been credited to the receiving bank. Based on this the remitting bank can advise the remitting customer through SMS that money has been credited to the receiving bank.
+Would the remitting customer get back the money if it is not credited to the beneficiary's account? When?,"Yes. Funds, received by a RTGS member for the credit to a beneficiary customer’s account, will be returned to the originating RTGS member within one hour of the receipt of the payment at the PI of the recipient bank or before the end of the RTGS Business day, whichever is earlier, if it is not possible to credit the funds to the beneficiary customer’s account for any reason e.g. account does not exist, account frozen, etc. Once the money is received back by the remitting bank, the original debit entry in the customer's account is reversed."
+Till what time RTGS service window is available?,"The RTGS service window for customer's transactions is available to banks from 9.00 hours to 16.30 hours on week days and from 9.00 hours to 14:00 hours on Saturdays for settlement at the RBI end. However, the timings that the banks follow may vary depending on the customer timings of the bank branches."
+What about Processing Charges / Service Charges for RTGS transactions?,"With a view to rationalize the service charges levied by banks for offering funds transfer through RTGS system, a broad framework has been mandated as under:
+a) Inward transactions – Free, no charge to be levied.
+b) Outward transactions – ` 2 lakh to ` 5 lakh - not exceeding ` 30.00 per transaction;
+Above ` 5 lakh – not exceeding ` 55.00 per transaction."
+What is the essential information that the remitting customer would have to furnish to a bank for the remittance to be effected?," The remitting customer has to furnish the following information to a bank for initiating a RTGS remittance:
+
+Amount to be remitted
+Remitting customer’s account number which is to be debited
+Name of the beneficiary bank and branch
+The IFSC Number of the receiving branch
+Name of the beneficiary customer
+Account number of the beneficiary customer
+Sender to receiver information, if any"
+How would one know the IFSC number of the receiving branch?,The beneficiary customer can obtain the IFSC code from his bank branch. The IFSC code is also available on the cheque leaf. The list of IFSCs is also available on the RBI website (http://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx). This code number and bank branch details can be communicated by the beneficiary to the remitting customer.
+Do all bank branches in India provide RTGS service?,"No. All the bank branches in India are not RTGS enabled. Presently, there are more than 100,000 RTGS enabled bank branches. The list of such branches is available on RBI website at: http://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx."
+Is there any way that a remitting customer can track the remittance transaction?,"It would depend on the arrangement between the remitting customer and the remitting bank. Some banks with internet banking facility provide this service. Once the funds are credited to the account of the beneficiary bank, the remitting customer gets a confirmation from his bank either by an e-mail or SMS. Customer may also contact RTGS / NEFT Customer Facilitation Centres of the banks, for tracking a transaction."
+"Whom do I can contact, in case of non-credit or delay in credit to the beneficiary account?","Contact your bank / branch. If the issue is not resolved satisfactorily, complaint may be lodged to the Customer Service Department of RBI at -
+
+
+
+The Chief General Manager
+
+Reserve Bank of India
+Customer Service Department
+1st Floor, Amar Building, Fort
+Mumbai – 400 001
+Or send email"
+How can a remitting customer know whether the bank branch of the beneficiary accepts remittance through RTGS?,"For a funds transfer to go through RTGS, both the sending bank branch and the receiving bank branch would have to be RTGS enabled. The lists are readily available at all RTGS enabled branches. Besides, the information is available at RBI website (http://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx). Considering that more than 110,000 branches at more than 30,000 cities / towns / taluka places are covered under the RTGS system, getting this information would not be difficult."
+At what time during the day/week is the RTGS & NEFT service is available?,"RTGS transactions will be sent to RBI based on the following schedule:
+
+RBI settlement Timings for transactions (other than Inter Bank transactions)
+Day	Start Time	End Time
+Monday to Friday : 08:00 hrs - 16:30 hrs
+Saturday : 08:00 hrs - 02:00 hrs
+
+NEFT transactions will be sent to RBI based on the following schedule:
+
+RBI settlement Timings
+Day	Start Time	End Time
+Monday to Friday : 08:00 hrs - 19:00 hrs
+Saturday : 08:00 hrs - 01:00 hrs
+
+NEFT transactions are settled in batches based on the following timings:
+
+Settlements on weekdays at hourly intervals from 08:00 hrs to 19:00 hrs.
+Settlements on Saturdays at hourly intervals from 08:00 hrs to 01:00 hrs.
+Please note that all the above timings are based on Indian Standard Time (IST) only."
+What is the mandatory information required to make an RTGS & NEFT payment?,"The Remitter has to provide the following details:
+
+Amount to be remitted
+Account no. to be credited
+Name of the beneficiary bank
+Name of the beneficiary customer
+Sender to receiver information, if any
+IFSC code of the receiving branch.
+Mobile number of the remitter.
+The amount will be credited to the account basing on the account number only. As such remitter has should be cautious on the account number while transferring the amounts in electronic mode."
